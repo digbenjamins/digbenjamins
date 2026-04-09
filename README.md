@@ -32,8 +32,9 @@
 
 ### 📫 How to reach me:
 
-- 🐤 **[X](https://x.com/digbenjamins)** - ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white) (digbenjamins)
-- 📢 **[Discord](https://discord.gg/YaQSBPnZ7z)** - ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) (digitalbenjamins)
+- 🐤 **[X](https://x.com/digbenjamins)** - digbenjamins
+- 📢 **[Discord](https://discord.gg/YaQSBPnZ7z)** - digitalbenjamins
+- 📺 **[YouTube](https://www.youtube.com/@digitalbenjamins)** - digitalbenjamins
 
 <!--
 **digbenjamins/digbenjamins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
