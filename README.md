@@ -1,15 +1,17 @@
 ## Hi! It's Benjamin
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Solana](https://img.shields.io/badge/Solana-lightblue?logo=solana)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
  ### Projects
 
 - 🤖 **[Muxai](https://www.muxai.io/)** - the AI Agent Multiplexer
-- ⚡ **[SnipeSpace](https://github.com/digbenjamins/SnipeSpaceVip)** - Next Level Sniping, Claim your edge!
+- ⚡ **[SnipeSpace](https://github.com/digbenjamins/SnipeSpaceVip)** - Next Level Sniping (Recently Made Public⭐)
 - 🔫 **[Solana Token Sniper](https://github.com/digbenjamins/SolanaTokenSniper)** - Meme Token Sniper (Terminal)
 - 🪙 **[DexBoostHunter](https://github.com/digbenjamins/DexBoostHunter)** - Track boosted tokens
 - 👛 **[Solana Wallet Tracker](https://github.com/digbenjamins/SolanaWalletTracker)** - Track Trending Wallets, View Duplicate Holdings
@@ -30,8 +32,8 @@
 
 ### 📫 How to reach me:
 
-- 🐤 **[X](https://x.com/digbenjamins)** - Dm via X (Twitter)
-- 📢 **[Discord](https://discord.gg/YaQSBPnZ7z)** - Discord Server (digitalbenjamins)
+- 🐤 **[X](https://x.com/digbenjamins)** - ![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white) (digbenjamins)
+- 📢 **[Discord](https://discord.gg/YaQSBPnZ7z)** - ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) (digitalbenjamins)
 
 <!--
 **digbenjamins/digbenjamins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
