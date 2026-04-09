@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi Benjamin here!
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Solana](https://img.shields.io/badge/Solana-lightblue?logo=solana)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+
+ ## 🔭 Projects
+
+- 🤖 **[Muxai]([https://www.muxai.io/](https://www.muxai.io/))** - the AI Agent Multiplexer
+
+## 📺 I’m creating content at: 
+
+- **[Muxai]([https://www.youtube.com/@digitalbenjamins](https://www.youtube.com/@digitalbenjamins))** - Digital Benjamins
+- **[Muxai]([https://www.youtube.com/@solanavibestation](https://www.youtube.com/@solanavibestation))** - Solana Vibe Station
+
+## 📫 How to reach me:
+
+- 🐤 **[X]([https://x.com/digbenjamins](https://x.com/digbenjamins))** - Dm via X (Twitter)
+- 📢 **[Discord]([https://discord.gg/YaQSBPnZ7z](https://discord.gg/YaQSBPnZ7z))** - Discord Server (digitalbenjamins)
 
 <!--
 **digbenjamins/digbenjamins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
