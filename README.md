@@ -9,6 +9,10 @@
  ### Projects
 
 - 🤖 **[Muxai](https://www.muxai.io/)** - the AI Agent Multiplexer
+- 🔫 **[Solana Token Sniper](https://github.com/digbenjamins/SolanaTokenSniper)** - Meme Token Sniper (Terminal)
+- 🪙 **[DexBoostHunter](https://github.com/digbenjamins/DexBoostHunter)** - Track boosted tokens
+- 👛 **[Solana Wallet Tracker](https://github.com/digbenjamins/SolanaWalletTracker)** - Track Trending Wallets, View Duplicate Holdings
+- 🐤 **[Twitter Tracker](https://github.com/digbenjamins/TwitterTracker)** - Crypto Tweet Tracker
 
 ### I’m creating content at: 
 
