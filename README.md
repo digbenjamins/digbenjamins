@@ -1,4 +1,4 @@
-## Hi Benjamin here!
+## Hi! It's Benjamin
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -12,14 +12,14 @@
 
 ### I’m creating content at: 
 
-- **[Digital Benjamins](https://www.youtube.com/@digitalbenjamins)** - YouTube
+- 📺 **[Digital Benjamins](https://www.youtube.com/@digitalbenjamins)** - YouTube
 
 ### Partner content:
 
- - **x402 Introduction (Agentic Payments)** - [Codebase](https://github.com/Solana-Vibe-Station/x402-introduction) | [Video](https://www.youtube.com/watch?v=7TsHiP9p2AY)
- - **Raw Shreds Forwarding** - [Codebase](https://github.com/Solana-Vibe-Station/raw-shreds-examples) | [Video](https://www.youtube.com/watch?v=NFEWLCT6xzw)
- - **Surfpool Introduction** - [Codebase](https://github.com/Solana-Vibe-Station/surfpool-showcase) | [Video](https://www.youtube.com/watch?v=67eDzSvj0vY)
- - **Token Extensions (Token-2022)** - [Codebase](https://github.com/Solana-Vibe-Station/token-2022-example) | [Video](https://www.youtube.com/watch?v=QWUVoB1rs4M)
+ - [Codebase](https://github.com/Solana-Vibe-Station/x402-introduction) | [Video](https://www.youtube.com/watch?v=7TsHiP9p2AY) - **x402 Introduction (Agentic Payments)**
+ - [Codebase](https://github.com/Solana-Vibe-Station/raw-shreds-examples) | [Video](https://www.youtube.com/watch?v=NFEWLCT6xzw) - **Raw Shreds Forwarding** 
+ - [Codebase](https://github.com/Solana-Vibe-Station/surfpool-showcase) | [Video](https://www.youtube.com/watch?v=67eDzSvj0vY) - **Surfpool Introduction**
+ - [Codebase](https://github.com/Solana-Vibe-Station/token-2022-example) | [Video](https://www.youtube.com/watch?v=QWUVoB1rs4M) - **Token Extensions (Token-2022)**
 
  For more check - **[Solana Vibe Station](https://www.youtube.com/@solanavibestation)** via YouTube
 
