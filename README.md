@@ -6,19 +6,27 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
- ## 🔭 Projects
+ ### Projects
 
-- 🤖 **[Muxai]([https://www.muxai.io/](https://www.muxai.io/))** - the AI Agent Multiplexer
+- 🤖 **[Muxai](https://www.muxai.io/)** - the AI Agent Multiplexer
 
-## 📺 I’m creating content at: 
+### I’m creating content at: 
 
-- **[Muxai]([https://www.youtube.com/@digitalbenjamins](https://www.youtube.com/@digitalbenjamins))** - Digital Benjamins
-- **[Muxai]([https://www.youtube.com/@solanavibestation](https://www.youtube.com/@solanavibestation))** - Solana Vibe Station
+- **[Digital Benjamins](https://www.youtube.com/@digitalbenjamins)** - YouTube
 
-## 📫 How to reach me:
+### Partner content:
 
-- 🐤 **[X]([https://x.com/digbenjamins](https://x.com/digbenjamins))** - Dm via X (Twitter)
-- 📢 **[Discord]([https://discord.gg/YaQSBPnZ7z](https://discord.gg/YaQSBPnZ7z))** - Discord Server (digitalbenjamins)
+ - **x402 Introduction (Agentic Payments)** - [Codebase](https://github.com/Solana-Vibe-Station/x402-introduction) | [Video](https://www.youtube.com/watch?v=7TsHiP9p2AY)
+ - **Raw Shreds Forwarding** - [Codebase](https://github.com/Solana-Vibe-Station/raw-shreds-examples) | [Video](https://www.youtube.com/watch?v=NFEWLCT6xzw)
+ - **Surfpool Introduction** - [Codebase](https://github.com/Solana-Vibe-Station/surfpool-showcase) | [Video](https://www.youtube.com/watch?v=67eDzSvj0vY)
+ - **Token Extensions (Token-2022)** - [Codebase](https://github.com/Solana-Vibe-Station/token-2022-example) | [Video](https://www.youtube.com/watch?v=QWUVoB1rs4M)
+
+ For more check - **[Solana Vibe Station](https://www.youtube.com/@solanavibestation)** via YouTube
+
+### 📫 How to reach me:
+
+- 🐤 **[X](https://x.com/digbenjamins)** - Dm via X (Twitter)
+- 📢 **[Discord](https://discord.gg/YaQSBPnZ7z)** - Discord Server (digitalbenjamins)
 
 <!--
 **digbenjamins/digbenjamins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
