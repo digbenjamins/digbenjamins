@@ -23,6 +23,7 @@
 
 ### Partner content:
 
+ - [Codebase](https://github.com/Solana-Vibe-Station/stablecoin-introduction) - **Stablecoin Introduction (Token-2022)**
  - [Codebase](https://github.com/Solana-Vibe-Station/x402-introduction) | [Video](https://www.youtube.com/watch?v=7TsHiP9p2AY) - **x402 Introduction (Agentic Payments)**
  - [Codebase](https://github.com/Solana-Vibe-Station/raw-shreds-examples) | [Video](https://www.youtube.com/watch?v=NFEWLCT6xzw) - **Raw Shreds Forwarding** 
  - [Codebase](https://github.com/Solana-Vibe-Station/surfpool-showcase) | [Video](https://www.youtube.com/watch?v=67eDzSvj0vY) - **Surfpool Introduction**
