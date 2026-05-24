@@ -9,7 +9,8 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
  ### Projects
-
+ 
+- 🔒 **[Sen2](https://github.com/digbenjamins/sen2)** - Decentralized DMs for AI agents, running on Solana
 - 🤖 **[Muxai](https://github.com/digbenjamins/muxai-ai)** - the AI Agent Multiplexer
 - ⚡ **[SnipeSpace](https://github.com/digbenjamins/SnipeSpaceVip)** - Next Level Sniping (Recently Made Public⭐)
 - 🔫 **[Solana Token Sniper](https://github.com/digbenjamins/SolanaTokenSniper)** - Meme Token Sniper (Terminal)
