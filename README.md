@@ -24,11 +24,11 @@
 
 ### Partner content:
 
- - [Codebase](https://github.com/Solana-Vibe-Station/stablecoin-introduction) | [Video](https://www.youtube.com/watch?v=zDECNnuSBQY) - **Stablecoin Introduction (Token-2022)**
- - [Codebase](https://github.com/Solana-Vibe-Station/x402-introduction) | [Video](https://www.youtube.com/watch?v=7TsHiP9p2AY) - **x402 Introduction (Agentic Payments)**
- - [Codebase](https://github.com/Solana-Vibe-Station/raw-shreds-examples) | [Video](https://www.youtube.com/watch?v=NFEWLCT6xzw) - **Raw Shreds Forwarding** 
- - [Codebase](https://github.com/Solana-Vibe-Station/surfpool-showcase) | [Video](https://www.youtube.com/watch?v=67eDzSvj0vY) - **Surfpool Introduction**
- - [Codebase](https://github.com/Solana-Vibe-Station/token-2022-example) | [Video](https://www.youtube.com/watch?v=QWUVoB1rs4M) - **Token Extensions (Token-2022)**
+ - [Codebase](https://github.com/Solana-Vibe-Station/svs-examples/tree/main/stablecoin-introduction) | [Video](https://www.youtube.com/watch?v=zDECNnuSBQY) - **Stablecoin Introduction (Token-2022)**
+ - [Codebase](https://github.com/Solana-Vibe-Station/svs-examples/tree/main/x402-introduction) | [Video](https://www.youtube.com/watch?v=7TsHiP9p2AY) - **x402 Introduction (Agentic Payments)**
+ - [Codebase](https://github.com/Solana-Vibe-Station/svs-examples/tree/main/raw-shreds-examples) | [Video](https://www.youtube.com/watch?v=NFEWLCT6xzw) - **Raw Shreds Forwarding** 
+ - [Codebase](https://github.com/Solana-Vibe-Station/svs-examples/tree/main/surfpool-showcase) | [Video](https://www.youtube.com/watch?v=67eDzSvj0vY) - **Surfpool Introduction**
+ - [Codebase](https://github.com/Solana-Vibe-Station/svs-examples/tree/main/token-2022-example) | [Video](https://www.youtube.com/watch?v=QWUVoB1rs4M) - **Token Extensions (Token-2022)**
 
  For more check - **[Solana Vibe Station](https://www.youtube.com/@solanavibestation)** via YouTube
 
