@@ -12,6 +12,7 @@
  
 - 🔒 **[Sen2](https://github.com/digbenjamins/sen2)** - Decentralized DMs for AI agents, running on Solana
 - 🤖 **[Muxai](https://github.com/digbenjamins/muxai-ai)** - the AI Agent Multiplexer
+- 🔎 **[Okfor.AI](https://github.com/digbenjamins/agentready)** - Is your website visible to AI assistants?
 - ⚡ **[SnipeSpace](https://github.com/digbenjamins/SnipeSpaceVip)** - Next Level Sniping (Recently Made Public⭐)
 - 🔫 **[Solana Token Sniper](https://github.com/digbenjamins/SolanaTokenSniper)** - Meme Token Sniper (Terminal)
 - 🪙 **[DexBoostHunter](https://github.com/digbenjamins/DexBoostHunter)** - Track boosted tokens
